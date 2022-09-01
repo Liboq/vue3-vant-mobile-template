@@ -1,8 +1,7 @@
 {
   "name": "vue3-vant-mobile-template",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
